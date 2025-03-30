@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains coursework, assignments, and projects completed for the CS-405 Secure Coding course at [Your University]. The course focuses on identifying and mitigating security vulnerabilities in software development, emphasizing secure coding practices and principles.
+This repository contains coursework, assignments, and projects completed for the CS-405 Secure Coding course at Southern New Hampshire University. The course focuses on identifying and mitigating security vulnerabilities in software development, emphasizing secure coding practices and principles.
 
 ## Course Description
 
