@@ -85,3 +85,6 @@ This journal reflects on the importance of integrating secure coding standards e
 ### References:
 
 The journal cites various articles and sources discussing secure coding practices, notable breaches, and the role of security policies in modern software development.
+
+## License
+This project is licensed under the MIT License. You are free to use, modify, and distribute this software.
